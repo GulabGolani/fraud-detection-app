@@ -1,6 +1,6 @@
 # AI-Powered Fraud Detection System
 
-🚀 Live App: https://your-streamlit-link
+🚀 Live App: https://aifraud-detection-app.streamlit.app/
 
 ## Features
 - Real-time fraud detection
